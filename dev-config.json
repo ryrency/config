@@ -1,5 +1,5 @@
 {
   welcome_message: "Hello from Dockerized Flask App for JSON"
   
-  Another_message: "From DEV-JSON"
+  Location: "From DEV-JSON"
 }
